@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ebozouxi.github.io/Eyc/sitemap_index.txt
+Sitemap: https://ebozouxi.github.io/JVD/sitemap_index.txt
+Sitemap: https://ebozouxi.github.io/olP/sitemap_index.txt
+Sitemap: https://ebozouxi.github.io/yem/sitemap_index.txt
